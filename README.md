@@ -29,6 +29,7 @@ Execution Steps
 hayes roth          -> 47.00%
 car evaluation      -> 85.00%
 breast cancer       -> 73.00%
+
 **Folder Structure
 **/KNN_10Fold_CV
     |-- knn_cross_validation.py
